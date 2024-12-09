@@ -1,0 +1,43 @@
+2024-12-06 19:12:34,263 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2024-12-06 19:12:34,290 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-12-06 19:12:34,292 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-12-06 19:12:34,299 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2024-12-06 19:12:34,299 INFO o.a.j.JMeter: Version 5.6.3
+2024-12-06 19:12:34,299 INFO o.a.j.JMeter: java.version=21.0.5
+2024-12-06 19:12:34,299 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-12-06 19:12:34,299 INFO o.a.j.JMeter: os.name=Windows 11
+2024-12-06 19:12:34,299 INFO o.a.j.JMeter: os.arch=amd64
+2024-12-06 19:12:34,299 INFO o.a.j.JMeter: os.version=10.0
+2024-12-06 19:12:34,299 INFO o.a.j.JMeter: file.encoding=UTF-8
+2024-12-06 19:12:34,299 INFO o.a.j.JMeter: java.awt.headless=null
+2024-12-06 19:12:34,299 INFO o.a.j.JMeter: Max memory     =1073741824
+2024-12-06 19:12:34,299 INFO o.a.j.JMeter: Available Processors =8
+2024-12-06 19:12:34,311 INFO o.a.j.JMeter: Default Locale=English (EN)
+2024-12-06 19:12:34,311 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2024-12-06 19:12:34,311 INFO o.a.j.JMeter: JMeterHome=D:\JMeter 5.6.3\apache-jmeter-5.6.3
+2024-12-06 19:12:34,311 INFO o.a.j.JMeter: user.dir  =D:\JMeter 5.6.3\apache-jmeter-5.6.3\bin
+2024-12-06 19:12:34,312 INFO o.a.j.JMeter: PWD       =D:\JMeter 5.6.3\apache-jmeter-5.6.3\bin
+2024-12-06 19:12:34,317 INFO o.a.j.JMeter: IP: 192.168.1.227 Name: George-PC FullName: George-PC.home
+2024-12-06 19:12:34,337 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-12-06 19:12:34,597 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: laf:com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+2024-12-06 19:12:45,520 INFO o.a.j.s.FileServer: Default base='D:\JMeter 5.6.3\apache-jmeter-5.6.3\bin'
+2024-12-06 19:12:45,523 INFO o.a.j.g.a.Load: Loading file: D:\JMeter 5.6.3\apache-jmeter-5.6.3\bin\Sprint 1\PetStore.jmx
+2024-12-06 19:12:45,523 INFO o.a.j.s.FileServer: Set new base='D:\JMeter 5.6.3\apache-jmeter-5.6.3\bin\Sprint 1'
+2024-12-06 19:12:45,695 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-12-06 19:12:45,738 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-12-06 19:12:45,739 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-12-06 19:12:45,741 INFO o.a.j.s.SaveService: Loading file: D:\JMeter 5.6.3\apache-jmeter-5.6.3\bin\Sprint 1\PetStore.jmx
+2024-12-06 19:12:45,849 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2024-12-06 19:12:46,073 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2024-12-06 19:12:46,073 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file D:\JMeter 5.6.3\apache-jmeter-5.6.3\bin\proxyserver.jks
+2024-12-06 19:12:46,083 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-12-06 19:12:46,083 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-12-06 19:12:46,083 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-12-06 19:12:46,084 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-12-06 19:12:46,084 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2024-12-06 19:12:46,084 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2024-12-06 19:12:46,148 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2024-12-06 19:12:46,148 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2024-12-06 19:12:46,148 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2024-12-06 19:12:46,149 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2024-12-06 19:12:47,142 INFO o.a.j.s.FileServer: Set new base='D:\JMeter 5.6.3\apache-jmeter-5.6.3\bin\Sprint 1'

@@ -1,0 +1,92 @@
+%Committed Bytes In Use
+Last -> 80.764
+Average -> 63.698
+Minimum -> 46.572
+Maximum -> 80.973
+Duration -> 59.39
+
+Available Bytes
+Last -> 760,229,888
+Average -> 1,310,302,648
+Minimum -> 449,069,056
+Maximum -> 2,716,565,504
+Duration -> 59.39
+
+
+Bytes Received/Sec
+Last -> 9,538,844
+Average -> 8,129,180
+Minimum -> 43,983
+Maximum -> 15,502,130
+Duration -> 59.39
+
+
+
+Bytes Sent/Sec
+Last -> 1,065,661
+Average -> 904,248,968
+Minimum -> 10.996
+Maximum -> 1,078,847
+Duration -> 59.39
+
+
+
+%Processor Time
+Last -> 2,927
+Average -> 4,237
+Minimum -> 0,544
+Maximum -> 27,116
+Duration -> 59.39
+
+
+
+
+%Disk Time
+Last -> 22,586
+Average -> 8,333
+Minimum -> 0,634
+Maximum -> 300,795
+Duration -> 59.39
+
+
+Avg.Disk/Sec/Transfer
+Last -> 0,005
+Average -> 0,001
+Minimum -> 0,000
+Maximum -> 0,062
+Duration -> 59.39
+
+
+Disk Bytes/Sec
+Last -> 16,310,734
+Average -> 4,235,973
+Minimum -> 9,802,891
+Maximum -> 104,369,162
+Duration -> 59.39
+
+
+
+Disk Reads/Sec
+Last -> 39,495
+Average -> 46,316
+Minimum -> 0,000
+Maximum -> 2,864,451
+Duration -> 59.39
+
+
+
+Disk Writes/Sec
+Last -> 8,621
+Average -> 43,522
+Minimum -> 1,396
+Maximum -> 4,993,612
+Duration -> 59.39
+
+
+
+
+
+
+
+
+
